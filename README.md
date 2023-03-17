@@ -1,4 +1,4 @@
-# Unit 4 - Sprint 13 - Neural Networks 
+# Unit 4 - Sprint 14 - Neural Networks 
 
 ## Sketch Classification with TensorFlow Keras
 
@@ -11,17 +11,11 @@ The main objective of this project is to build a baseline classification model u
 The Quickdraw dataset is a collection of over 50 million drawings across 345 categories, collected from the game "Quick, Draw!" The dataset used in this project has been sampled to only 10 classes and 10000 observations per class. The classes are: apple, anvil, airplane, banana, The Eiffel Tower, The Mona Lisa, The Great Wall of China, alarm clock, ant and asparagus.
 
 ### Requirements
-Python 3.6 or higher
-TensorFlow 2.0 or higher
-NumPy
-Matplotlib
-Scikit-learn 1.2.1
-### Requirements
-Python 3.6 or higher
-TensorFlow 2.0 or higher
-NumPy
-Matplotlib
-Scikit-learn 1.2.1
+- Python 3.6 or higher
+- TensorFlow 2.0 or higher
+- NumPy
+- Matplotlib
+- Scikit-learn 1.2.1
 ### Acknowledgements
 
 This project uses the Quickdraw dataset, which was created by Google Creative Lab and is licensed under the Creative Commons Attribution 4.0 International License.
