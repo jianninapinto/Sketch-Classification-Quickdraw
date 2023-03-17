@@ -1,4 +1,4 @@
-# Unit 4 - Sprint 13 - Neural Networks 
+# Unit 4 - Sprint 14 - Neural Networks 
 
 ## Sketch Classification with TensorFlow Keras
 
